@@ -69,7 +69,7 @@ Para os demais fins, disponibilizamos o layout criado no figma que irá guiar a 
 Link do Figma
 </a>
 </p>
-<img src="public/Figma1.png">
+<img src="public/Figma2.png">
 
 ## Projeto em Construção
 
